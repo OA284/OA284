@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Unity+2D+%26+3D+Game+Development;Exploring+VR+%2F+XR+Experiences;Gameplay+Programming+with+C%23;Building+Interactive+Worlds" alt="Animated typing banner" />
 </p>
 
-I'm a **Unity Game Developer with around 1.5 years of development experience**, passionate about building interactive games and immersive experiences using Unity and C#.
+I'm a **Unity Game Developer**, working with Unity since **February 2025**, passionate about building interactive games and immersive experiences using Unity and C#.
 
 My primary focus is **2D and 3D game development, gameplay programming, and VR/XR technologies**. I enjoy learning new techniques, experimenting with game mechanics, and bringing ideas to life through code.
 

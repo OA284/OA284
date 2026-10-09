@@ -1,185 +1,214 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B16,50:17113A,100:00E5FF&text=OMAR%20AMIN&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=GAMEPLAY%20DEVELOPER%20%2F%20IMMERSIVE%20TECH&descSize=14&descAlignY=60&animation=fadeIn" width="100%" alt="Omar Amin — Game Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:080610,35:211047,70:38206A,100:9DFF00&text=OMAR%20AMIN&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=UNITY%20%2F%20GAMEPLAY%20%2F%20VR-XR&descSize=15&descAlignY=63&animation=fadeIn" width="100%" alt="Omar Amin — Unity Game Developer"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=700&lines=Crafting+Worlds+with+Unity;2D+%7C+3D+%7C+VR%2FXR+Development;Gameplay+Systems+%26+C%23;From+Prototype+to+Playable+Experience" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=850&color=9DFF00&center=true&vCenter=true&width=700&lines=while%28alive%29%7B+keepBuilding%28%29%3B+%7D;Unity+%7C+C%23+%7C+Gameplay+Programming;2D+%2F+3D+%2F+VR+%2F+XR;Turning+Ideas+Into+Playable+Worlds" alt="Animated game developer tagline"/>
 
 <br/><br/>
 
-<a href="https://omar-a-abouelmagd.itch.io/"><img src="https://img.shields.io/badge/PLAY_MY_GAMES-0B1020?style=for-the-badge&logo=itchdotio&logoColor=FF5C5C" alt="Play my games"/></a>
-<a href="https://github.com/OA284"><img src="https://img.shields.io/badge/EXPLORE_CODE-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explore code"/></a>
-<a href="https://www.linkedin.com/in/omar-amin-4b38b5307"><img src="https://img.shields.io/badge/LET'S_CONNECT-0B1020?style=for-the-badge&logo=linkedin&logoColor=9D8CFF" alt="LinkedIn"/></a>
+<a href="https://omar-a-abouelmagd.itch.io/"><img src="https://img.shields.io/badge/PLAY_MY_GAMES-9DFF00?style=for-the-badge&logo=itchdotio&logoColor=101010&labelColor=9DFF00" alt="Play my games"/></a>
+<a href="https://github.com/OA284?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOS-171323?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Explore repositories"/></a>
+<a href="https://www.linkedin.com/in/omar-amin-4b38b5307/"><img src="https://img.shields.io/badge/LINKEDIN-171323?style=for-the-badge&logo=linkedin&logoColor=9DFF00" alt="LinkedIn"/></a>
+<a href="mailto:omaramin1092@gmail.com"><img src="https://img.shields.io/badge/EMAIL-171323?style=for-the-badge&logo=gmail&logoColor=FF5CFF" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=OA284&style=flat-square&color=00E5FF&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=OA284&style=for-the-badge&color=38206A&label=VISITORS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `01` — Beyond the Screen
+<div align="center">
 
-I build interactive experiences where code becomes gameplay, mechanics become challenges, and ideas become worlds players can explore.
+### `> WHO AM I?`
 
-My main focus is **Unity game development**, working across **2D, 3D, and VR/XR**. I enjoy developing gameplay mechanics, interactive systems, player movement, and the logic that brings a game together.
+**I build the logic behind the experience.**
 
-I’ve been working with Unity since **February 2025**, continuously developing my skills through hands-on projects and experimentation.
+</div>
 
-When I'm not building game systems, I also explore frontend development and software testing, giving me a broader perspective on creating and validating software.
+I'm a software developer focused on **Unity game development**, working with 2D, 3D, and VR/XR experiences. Since February 2025, I've been developing my skills in Unity and C#, building interactive gameplay systems and experimenting with the mechanics that make games engaging.
 
-```csharp
-public class DeveloperProfile
-{
-    public string GameEngine = "Unity";
-    public string MainLanguage = "C#";
+I enjoy solving gameplay problems, bringing systems together, and turning concepts into something you can actually play.
 
-    public string[] GameDomains =
-    {
-        "2D Games",
-        "3D Games",
-        "VR / XR"
-    };
-
-    public string[] Interests =
-    {
-        "Gameplay Programming",
-        "Interactive Systems",
-        "Immersive Experiences"
-    };
-
-    public string CurrentMission =
-        "Turn ideas into playable experiences.";
-}
+```yaml
+developer: OA284
+engine: Unity
+language: C#
+main_quest: Game Development
+specializations:
+  - 2D Gameplay
+  - 3D Experiences
+  - VR / XR
+secondary_skills:
+  - Frontend Development
+  - Software Testing
+status: Always Building
 ```
 
-## `02` — My Development Arsenal
+---
 
 <div align="center">
 
-**GAME DEVELOPMENT**
+## `> EQUIPPED SKILLS`
 
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Game Development
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Unity and C sharp"/>
+</p>
 
-<img src="https://img.shields.io/badge/2D_GAMEPLAY-17113A?style=for-the-badge&logoColor=00E5FF" alt="2D gameplay"/>
-<img src="https://img.shields.io/badge/3D_WORLDS-17113A?style=for-the-badge&logoColor=00E5FF" alt="3D worlds"/>
-<img src="https://img.shields.io/badge/VR_/_XR-17113A?style=for-the-badge&logoColor=9D8CFF" alt="VR and XR"/>
+- Unity engine
+- C# scripting
+- Gameplay mechanics
+- Player interactions
+- Spawning and game progression
+- 2D / 3D development
+- VR / XR exploration
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-**WEB DEVELOPMENT**
+### 🧰 Developer Toolkit
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" alt="Web development technologies"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark" alt="Git, GitHub, Visual Studio and VS Code"/>
+</p>
 
-<br/>
+- Git and GitHub
+- Visual Studio
+- Visual Studio Code
+- Debugging and problem-solving
+- Software quality and testing concepts
 
-**PROGRAMMING & TOOLS**
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-<img src="https://skillicons.dev/icons?i=c,java,git,github,vscode,visualstudio&theme=dark" alt="Programming languages and tools"/>
+### 🌐 Side Skills — Web Development
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Bootstrap and Tailwind CSS"/>
+</p>
 
-<details>
-<summary><b>🧪 Other area of interest — Software Testing</b></summary>
-
-- Software quality and validation
-- Functional testing concepts
-- Test cases and bug reporting
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## `03` — Selected Work
+<div align="center">
 
-The best way to understand a developer is to see what they've built. Here are some projects from my development journey.
+## `> GAME VAULT`
 
-### 🎮 Falling Dash
+*Every project is another level completed.*
 
-**A 2D top-down Unity game**
+</div>
 
-A game project focused on gameplay, hazards, and progressively challenging rounds.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`UNITY` `C#` `2D GAMEPLAY`
+<h3>🎯 Falling Dash</h3>
 
-- Gameplay systems and player health interactions
-- Crate and barrel spawning mechanics
-- Round-based difficulty progression
+<img src="https://img.shields.io/badge/TYPE-2D_GAME-9DFF00?style=flat-square&labelColor=171323" alt="2D game"/>
 
-[**Explore my GitHub repositories →**](https://github.com/OA284)
+A top-down Unity game featuring gameplay interactions, hazards, and progressively challenging rounds.
 
-### 🥽 VR / XR Development
+**Development highlights**
 
-**Building interactive experiences for immersive environments**
+- Crate and barrel spawning logic
+- Explosive hazards and player damage
+- Round progression and difficulty scaling
 
-I'm interested in the systems that make VR experiences feel responsive, including player locomotion, hardware-driven input, dynamic environments, and adaptive gameplay.
+<a href="https://github.com/OA284?tab=repositories"><img src="https://img.shields.io/badge/VIEW_REPOSITORIES-171323?style=for-the-badge&logo=github&logoColor=00E5FF" alt="View repositories"/></a>
 
-`UNITY` `C#` `VR / XR`
+</td>
+<td width="50%" valign="top">
 
-- Player movement and interaction systems
+<h3>🥽 VR / XR Systems</h3>
+
+<img src="https://img.shields.io/badge/TYPE-IMMERSIVE-FF5CFF?style=flat-square&labelColor=171323" alt="Immersive development"/>
+
+Exploring player movement, interactive environments, and systems designed for immersive gameplay.
+
+**Development interests**
+
+- Player locomotion
 - Dynamic track and world spawning
-- Gameplay progression and difficulty systems
+- Hardware-driven movement
+- Adaptive difficulty
 
-[**Explore my game portfolio on itch.io →**](https://omar-a-abouelmagd.itch.io/)
+<a href="https://omar-a-abouelmagd.itch.io/"><img src="https://img.shields.io/badge/EXPLORE_GAME_PORTFOLIO-171323?style=for-the-badge&logo=itchdotio&logoColor=FF5C5C" alt="Explore portfolio"/></a>
 
-### 🌐 Web Development Projects
+</td>
+</tr>
+</table>
 
-Alongside game development, I've built projects that strengthen my understanding of interfaces, application logic, and working with APIs.
+### 🌐 Side Quests
 
-| Project | Repository |
+| Project | What it demonstrates |
 |---|---|
-| E-commerce application | [View source](https://github.com/OA284/e-commerce) |
-| Weather application | [View source](https://github.com/OA284/Assignment-12-weather-app-three-days) |
-| Game site | [View source](https://github.com/OA284/Assignment-13-gameSite) |
-| Quiz application | [View source](https://github.com/OA284/Quiz-2-Yummy) |
-| Operating Systems project | [View source](https://github.com/OA284/System-Project) |
-
-<sub>More projects are available in my repositories. I'll keep expanding this section as I publish more polished work.</sub>
+| [E-commerce](https://github.com/OA284/e-commerce) | React application development |
+| [Weather App](https://github.com/OA284/Assignment-12-weather-app-three-days) | API integration and dynamic interfaces |
+| [Game Site](https://github.com/OA284/Assignment-13-gameSite) | Frontend development |
+| [Quiz App](https://github.com/OA284/Quiz-2-Yummy) | Interactive web logic |
+| [Operating Systems Project](https://github.com/OA284/System-Project) | Systems and Bash fundamentals |
 
 ---
 
-## `04` — Current Objectives
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-GAMEPLAY_SYSTEMS-111827?style=for-the-badge&labelColor=17113A" alt="Gameplay systems"/>
-<img src="https://img.shields.io/badge/02-UNITY_2D_&_3D-111827?style=for-the-badge&labelColor=17113A" alt="Unity 2D and 3D"/>
-<img src="https://img.shields.io/badge/03-IMMERSIVE_VR_/_XR-111827?style=for-the-badge&labelColor=17113A" alt="Immersive VR and XR"/>
+## `> CURRENT MISSIONS`
 
 </div>
 
-- Sharpening my Unity and C# gameplay programming skills.
-- Developing more complete, polished game projects.
-- Exploring immersive VR/XR interactions and systems.
-- Improving code quality, debugging, and software validation.
-- Maintaining my web development skills as a complementary area.
+| Mission | Goal |
+|---|---|
+| `01` — Gameplay | Build better gameplay systems with Unity and C# |
+| `02` — Worlds | Develop polished 2D and 3D experiences |
+| `03` — Immersion | Explore VR/XR development |
+| `04` — Quality | Improve debugging, validation, and code quality |
 
 ---
 
-## `05` — Signal / Contact
+<div align="center">
+
+## `> PLAYER STATISTICS`
+
+<img src="https://github-readme-stats.vercel.app/api?username=OA284&show_icons=true&hide_border=true&bg_color=0D0A16&title_color=9DFF00&icon_color=00E5FF&text_color=E9E4F5&rank_icon=github" height="165" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OA284&layout=compact&hide_border=true&bg_color=0D0A16&title_color=9DFF00&text_color=E9E4F5" height="165" alt="Top languages"/>
+
+</div>
+
+---
 
 <div align="center">
 
-**Have a game project, collaboration idea, or Unity opportunity? Let's connect.**
+### `> READY TO COLLABORATE?`
+
+Interested in **Unity development, gameplay programming, or VR/XR projects**? Let's connect.
 
 <br/>
 
-<a href="https://omar-a-abouelmagd.itch.io/"><img src="https://img.shields.io/badge/ITCH.IO-17113A?style=for-the-badge&logo=itchdotio&logoColor=FF5C5C" alt="itch.io"/></a>
-<a href="https://www.linkedin.com/in/omar-amin-4b38b5307"><img src="https://img.shields.io/badge/LINKEDIN-17113A?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
-<a href="mailto:omaramin1092@gmail.com"><img src="https://img.shields.io/badge/EMAIL-17113A?style=for-the-badge&logo=gmail&logoColor=9D8CFF" alt="Email"/></a>
+<a href="https://omar-a-abouelmagd.itch.io/"><img src="https://img.shields.io/badge/ITCH.IO-211047?style=for-the-badge&logo=itchdotio&logoColor=FF5C5C" alt="itch.io"/></a>
+<a href="https://www.linkedin.com/in/omar-amin-4b38b5307/"><img src="https://img.shields.io/badge/LINKEDIN-211047?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
+<a href="mailto:omaramin1092@gmail.com"><img src="https://img.shields.io/badge/EMAIL-211047?style=for-the-badge&logo=gmail&logoColor=9DFF00" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=OA284&show_icons=true&hide_border=true&bg_color=080B16&title_color=00E5FF&icon_color=9D8CFF&text_color=E6F1FF&rank_icon=github" height="165" alt="GitHub statistics"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:9DFF00,50:38206A,100:080610" width="100%" alt="Neon footer"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OA284&layout=compact&hide_border=true&bg_color=080B16&title_color=00E5FF&text_color=E6F1FF" height="165" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:080B16" width="100%" alt="Footer"/>
-
-<sub>DESIGNED TO PLAY. BUILT TO EXPLORE. POWERED BY CODE.</sub>
+<sub>BUILD WORLDS · BREAK LIMITS · SHIP GAMES</sub>
 
 </div>
